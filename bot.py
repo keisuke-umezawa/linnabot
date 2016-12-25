@@ -7,6 +7,7 @@ import requests
 import doco.client
 import falcon
 
+
 # logger
 logger = getLogger(__name__)
 handler = StreamHandler()
